@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/Max21910</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>This is an open source project</name>
+			<url>https://github.com/Max21910</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>

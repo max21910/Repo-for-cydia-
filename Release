@@ -1,0 +1,8 @@
+Origin: Max-Studio
+Label: Max-Studio
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Max-Studio a compatible Cydia-sileo Source for jailbroken device 
