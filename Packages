@@ -11,3 +11,4 @@ Description: This is a sample new package. Firmware should be greater than 13.0
 Name: New Package
 Author:  Max-Studio <your@email>
 Depiction: https://max21910.github.io/Repo-for-cydia-/depictions/web/?p=com.max-studio.exemple
+SileoDepiction: https://raw.githubusercontent.com/max21910/Repo-for-cydia-/main/depictions/native/com.max21160.exemple/depiction.json
