@@ -17,7 +17,7 @@ this repo can be use with all the package manager :
 ## Want to tried  ?
 add this source to your repo manager :
 
-https://max21910.github.io/Max-Studio-repo-for-cydia-and-other/
+https://max21910.github.io/Repo-for-cydia-/
 
 ## Free to use ?
 yes this project is open source !
