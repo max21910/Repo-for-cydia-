@@ -1,13 +1,19 @@
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-        "url": "https://9to5mac.com/?attachment_id=811133",
-        "title": "Welcome to Ma-Studio",
-        "package": "com.max-studio.exemple",
-        "hideShadow": false
-    }
-  ]
+{  
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[  
+      {  
+         "url":"url of banner image",
+         "title":"Welcome to Max-Studio",
+         "package":"bundle id of package",
+         "hideShadow":false
+      },
+      {  
+         "url":"url of banner image",
+         "title":"Exemple",
+         "package":"com.max-studio.exemple",
+         "hideShadow":false
+      },
+   ]
 }
