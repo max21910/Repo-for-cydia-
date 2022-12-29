@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: Max-Studio <your@email>
 Depends: firmware (>13.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/max-studio.exemple.deb
+Filename: ./debs/com.max-studio.exemple.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
