@@ -8,10 +8,14 @@ Made with ❤️ by Max21910 in 🇫🇷
 An simple repository compatible with Cydia, Sileo and other ! 
 this repo can be use with all the package manager :
 
--Cydia
--installer
--Sileo 
--Zebra
+-Cydia  
+
+-installer  
+
+-Sileo  
+
+-Zebra  
+
 
 
 ## Want to tried  ?
