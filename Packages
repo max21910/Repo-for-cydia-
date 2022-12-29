@@ -4,11 +4,13 @@ Section: Tweaks
 Maintainer: Max-Studio <your@email>
 Depends: firmware (>13.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.max-studio.exemple.deb
+Filename: ./debs/max-studio.exemple.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+SHA512: 7c68d881ab4e5e114423c404ae1cac65137dcc3d3b25108d1d5c862df9516ed12e3240cb40bf952ba9bf8d9ef1b04e4cc58097710ead23e0fdd781e0692a20c6
 Description: This is a sample new package. Firmware should be greater than 13.0
-Name: New Package
+Name: Max-Studio
 Author:  Max-Studio <your@email>
-Depiction: https://max21910.github.io/Repo-for-cydia-/depictions/web/?p=com.max-studio.exemple
-SileoDepiction: https://raw.githubusercontent.com/max21910/Repo-for-cydia-/main/depictions/native/com.max-studio.exemple/depiction.json
+Depiction: https://max21910.github.io/Repo-for-cydia-/depictions/?p=com.max-studio.exemple

@@ -4,13 +4,13 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://github.com/max21910/Repo-for-cydia-/blob/main/img/Banner.png?raw=true",
+         "url":"https://github.com/max21910/Repo-for-cydia-/blob/main/ressources/img/Banner.png?raw=true",
          "title":"Welcome to Max-Studio",
          "package":"bundle id of package",
-         "hideShadow":false
+         "hideShadow":true
       },
       {  
-         "url":"https://github.com/max21910/Repo-for-cydia-/blob/main/img/Banner.png?raw=true",
+         "url":"https://github.com/max21910/Repo-for-cydia-/blob/main/ressources/img/Banner.png?raw=true",
          "title":"Exemple",
          "package":"com.max-studio.exemple",
          "hideShadow":false
