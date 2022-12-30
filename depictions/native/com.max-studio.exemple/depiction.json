@@ -13,6 +13,12 @@
 				{
 					"class": "DepictionSeparatorView"
 				},
+				
+				{
+				 "class": "DepictionTableButtonView"
+				"title": "See depitction online"
+				 "action": "https://parcility.co"
+				 },
 				{
 					"title": "Latest Version",
 					"class": "DepictionHeaderView"
