@@ -16,9 +16,9 @@ this repo can be use with all the package manager :
 
 -Zebra  
 
+-other package manager may works 
 
-
-## Want to tried  ?
+## Want to try  ?
 add this source to your repo manager :
 
 https://max21910.github.io/Repo-for-cydia-/
@@ -26,8 +26,6 @@ https://max21910.github.io/Repo-for-cydia-/
 ## Free to use ?
 yes this project is open source !
 
-## how to modify it : 
-simply download and modify every files you can find tuto on youtube 
 
 
 
